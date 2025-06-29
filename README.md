@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/snake.svg" alt="Snake animation" />
 
 ###
