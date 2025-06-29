@@ -17,6 +17,7 @@
 <img src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"  />
 <img width="12" />
 <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"  />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/n8n-text.png"  />
 </div>
 
 ### 
