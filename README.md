@@ -9,6 +9,7 @@
 </div>
 
 ### Minhas tecnologias
+<div align = "left">
 <img width="12" />
 <img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
 <img width="12" />
@@ -16,7 +17,7 @@
 <img width="12" />
 <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=100&id=IbMiSo40VOtV&format=png&color=000000"/>
-
+</div>
 ### 
 
 <div align="left">
