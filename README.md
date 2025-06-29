@@ -16,7 +16,7 @@
 <img width="12" />
 <img src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"  />
 </div>
 
 ### 
