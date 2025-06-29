@@ -9,9 +9,6 @@
 
   <img align="center" height="100" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000"/>
 </div>
-
-
-  
 ### Minhas tecnologias
 
 <img width="12" />
