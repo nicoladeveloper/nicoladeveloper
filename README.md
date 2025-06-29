@@ -12,9 +12,9 @@
 ### Minhas tecnologias
 
 <img width="12" />
-<img src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"  />
+<img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<img src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
