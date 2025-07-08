@@ -26,7 +26,7 @@
   <h2> Estastisticas </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
-### 
+COMITS
 <div align = "center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
