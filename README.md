@@ -8,7 +8,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
-### Minhas tecnologias
+                                                                                ### Minhas tecnologias
 <div align = "center">
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"/>
