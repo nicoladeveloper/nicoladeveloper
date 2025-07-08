@@ -24,7 +24,7 @@
 
 <div align = "center">
   <img align="left" height="250" src="https://media1.tenor.com/m/8w9y1h9waBsAAAAC/slayers-hyper-cd-slayers.gif"/>
-  <div align="left">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?    username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
 </div>
