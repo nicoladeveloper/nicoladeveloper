@@ -2,7 +2,7 @@
 
 ### 
 <div align = "center">
-<img align="center" height="150" src="https://media1.tenor.com/m/aMtfh_vG7y8AAAAd/anime-rimuru.gif"/>
+<img align="center" height="https://media1.tenor.com/m/r-JwqANotxUAAAAC/gokudera-hayato-khr59.gif"/>
 
 
 
