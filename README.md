@@ -2,7 +2,7 @@
 
 ### 
 <div align = "center">
-<img align="center" height="150" src="https://media1.tenor.com/m/nW0VZVZtLWwAAAAC/inuyasha-anime.gif"/>
+<img align="center" height="150" src="https://media1.tenor.com/m/hBwkISiqNI0AAAAd/shura-hiwa-lamer.gif"/>
 
 
 
