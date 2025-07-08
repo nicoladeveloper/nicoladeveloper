@@ -2,7 +2,7 @@
 
 ### 
 <div align = "center">
-<img align="center" height="150" src="https://tenor.com/view/shura-hiwa-lamer-lenguetazo-lengua-chica-anime-gif-9519523437189149837"/>
+<img align="center" height="150" src="https://tenor.com/pt-BR/view/shura-hiwa-lamer-lenguetazo-lengua-chica-anime-gif-9519523437189149837"/>
 
 
 
