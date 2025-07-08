@@ -3,7 +3,7 @@
 ### 
 <div align = "center">
 <img align="center" height="150" src="https://tenor.com/lvnGiEqpblx.gif"/>
-  
+<div class="tenor-gif-embed" data-postid="9519523437189149837" data-share-method="host" data-aspect-ratio="1.02893" data-width="100%"><a href="https://tenor.com/view/shura-hiwa-lamer-lenguetazo-lengua-chica-anime-gif-9519523437189149837">Shura Hiwa Lamer GIF</a>from <a href="https://tenor.com/search/shura+hiwa-gifs">Shura Hiwa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <div align = "center">
