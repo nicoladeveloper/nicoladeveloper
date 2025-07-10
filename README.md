@@ -29,14 +29,14 @@ atualmente é o meu foco de estudo, minha meta é ser desenvolvedor backend. Inc
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
-<img align="center" height="300" src="https://media1.tenor.com/m/8w9y1h9waBsAAAAC/slayers-hyper-cd-slayers.gif"/>
+<img align="left" height="300" src="https://media1.tenor.com/m/8w9y1h9waBsAAAAC/slayers-hyper-cd-slayers.gif"/>
 </div>
 
 <div align = "center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
-  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
