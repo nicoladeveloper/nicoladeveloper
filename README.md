@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
 
 <h3>Opa Prazer, me chamo Nicolas, tenho 21 Anos, faço faculdade de 
-Ciências da Computação pois amo Ti e principalmente Programação. Cursando python automação e desenvolvimento web com django, 
-atualmente é o meu foco de estudo, minha meta é ser desenvolvedor backend. Inclusive estou desenvolvendo um projeto com python e django.</h3>
+Ciências da Computação pois amo Ti e principalmente Programação.</h3>
+<h3>Cursando python automação e desenvolvimento web com django, 
+atualmente é o meu foco de estudo, minha meta é ser desenvolvedor backend. Inclusive estou desenvolvendo um projeto com python e django</h3>
 
 ### 
 <div align = "center">
