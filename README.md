@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nicolas</h2>
-<h3>Opa Prazer, me chamo Nicolas, tenho 21 Anos, faço faculdade de 
+<h2 align="left">Hi 👋! My name is Nicolas</h2><h3>Opa Prazer, me chamo Nicolas, tenho 21 Anos, faço faculdade de 
 Ciências da Computação pois amo Ti e principalmente Programação.</h3>
 
 ### 
