@@ -4,7 +4,7 @@
 Ciências da Computação pois amo Ti e principalmente Programação.</h3>
 <h3>Cursando python automação e desenvolvimento web com django, 
 atualmente é o meu foco de estudo, minha meta é ser desenvolvedor backend. Inclusive estou desenvolvendo um projeto com python e django</h3>
-
+<h1>   </h1>
 ### 
 <div align = "center">
 <img align="center" height="100" src ="https://media1.tenor.com/m/r-JwqANotxUAAAAC/gokudera-hayato-khr59.gif"/>
