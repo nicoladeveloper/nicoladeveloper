@@ -15,7 +15,6 @@ atualmente é o meu foco de estudo, minha meta é ser desenvolvedor backend. Inc
 <div align = "center">
   <h3> Minhas tecnologias </h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=nNuiDD7cPWnS&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=IbMiSo40VOtV&format=png&color=000000"/>
 </div>
