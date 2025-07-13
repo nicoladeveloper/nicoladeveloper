@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
 
-<div align = "center">
+<div align = "left">
 </h2> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
 estudos e cursos com foco em backend.
 </div>
