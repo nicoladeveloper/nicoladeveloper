@@ -17,7 +17,7 @@ estudos e cursos com foco em backend.</h3>
   <h3> Minhas tecnologias </h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=11625&format=png&color=000000"/>
+<img align="center" height="50" src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 
