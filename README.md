@@ -17,7 +17,7 @@ estudos e cursos com foco em FullStack.</h3>
   <h3> Minhas tecnologias </h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=cyigUQkeuMUj&format=png&color=000000"/>
+<img align="center" height="50" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=wXEQgh0m0i7b&format=png&color=000000"/>
