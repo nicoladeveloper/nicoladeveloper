@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
 
 <h3> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
-estudos e cursos com foco em backend.</h3>
+estudos e cursos com foco em FullStack.</h3>
 
 <div align = "center">
 </h3> Projeto em andamento: estou desenvolvendo um projeto com python e django...</h3>
