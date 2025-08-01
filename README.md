@@ -20,7 +20,7 @@ estudos e cursos com foco em FullStack.</h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=wXEQgh0m0i7b&format=png&color=000000"/>
+<img align="center" height="50" src="https://icons8.com.br/icon/21278/css3"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 
 </div>
