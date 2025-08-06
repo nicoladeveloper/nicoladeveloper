@@ -1,4 +1,4 @@
-## Hi My names Nicolas
+## <h1 align = "center">Hi My names Nicolas</h1>
 
 <div>
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
