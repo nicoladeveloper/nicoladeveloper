@@ -1,15 +1,14 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
 
-<h3> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
+<h3 align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
 estudos e cursos com foco em FullStack.</h3>
 
 <div align = "center">
 </h3> Projeto em andamento: estou desenvolvendo um projeto com python e django...</h3>
 </div>
-<h1>   </h1>
 ### 
 <div align = "center">
-<img align="center" height="100" src ="https://media1.tenor.com/m/r-JwqANotxUAAAAC/gokudera-hayato-khr59.gif"/>
+<img align="center" height="100" src ="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
 
 
 
