@@ -1,18 +1,11 @@
 ## Hi My names Nicolas
 
+<div>
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 <p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
 estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
-
-<div align = "center">
-</h3> Projeto em andamento: estou desenvolvendo um projeto com python e django...</h3>
-</div>
-### 
-<div align = "center">
-
-
-
-
+##
+  
 <div align = "center">
   <h3> Minhas tecnologias </h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
@@ -43,7 +36,7 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
-
+  </div>
 
 
 ###
