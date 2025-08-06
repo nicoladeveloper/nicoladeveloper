@@ -8,7 +8,7 @@ estudos e cursos com foco em FullStack.</h3>
 </div>
 ### 
 <div align = "center">
-<img align="center" height="100" src ="https://drive.google.com/drive/folders/19jjV1a6tYFveAclnw1zjFRaTwlo1N5YM?hl=pt-br"/>
+<img align="center" height="100" src ="https://drive.google.com/file/d/1bAD9vM-_DzI4uMNoody8SAC471-kqt0q/view?usp=sharing"/>
 
 
 
