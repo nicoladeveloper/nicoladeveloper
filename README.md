@@ -1,5 +1,4 @@
-<div align = "center">
-  
+
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AD2DF7&width=435&lines=Hi%2C+My+name+is+Nicolas;Welcome+to+my+portfolio" alt="Typing SVG" /></a>
 </div>
@@ -13,12 +12,11 @@
 </div>
 #
 
-<div align = "left">
-<div>
+<div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
 </div>
 
-<div align ="left">
+<div align ="center">
 <img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
 <img alt="DJANGO"src="https://img.shields.io/badge/Django-%234B275F.svg?style=for-the-badge&logo=django&logoColor=purple"/>
 <img alt="C#"src="https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=purple"/>
@@ -48,8 +46,6 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
   </div>
-
-   </div>
 
 
 ###
