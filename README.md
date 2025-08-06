@@ -1,11 +1,11 @@
-## <div align="center">
-<h1 align = "center"
+## 
+<div align="center">
+<div align = "center"
   <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 
 <div align = "center">
@@ -35,12 +35,14 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
 <img align="center" height="300" src="https://media1.tenor.com/m/8w9y1h9waBsAAAAC/slayers-hyper-cd-slayers.gif"/>
 </div>
 
-
+<div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
   </div>
+
+   </div>
 
 
 ###
