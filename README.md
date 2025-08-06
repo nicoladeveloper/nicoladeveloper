@@ -1,5 +1,6 @@
-<div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AD2DF7&width=435&lines=Hi%2C+My+name+is+Nicolas;Welcome+to+my+portfolio" alt="Typing SVG" /></a>
+
+<div align ="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=9B22F7&background=88FF5D00&width=435&lines=My+name+is+Nicolas;Welcome+to+my+portfolio" alt="Typing SVG" /></a>
 </div>
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
@@ -39,7 +40,7 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
-  </div>
+</div>
 
 
 ###
