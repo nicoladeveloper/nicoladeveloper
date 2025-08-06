@@ -14,7 +14,10 @@
 
 #
 <div align = "left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
+<div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
+</div>
+
 <img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
 <img alt="DJANGO"src="https://img.shields.io/badge/Django-%234B275F.svg?style=for-the-badge&logo=django&logoColor=purple"/>
 <img alt="C#"src="https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=purple"/>
