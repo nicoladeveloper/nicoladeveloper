@@ -11,7 +11,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
 #
 <div align = "left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
@@ -24,8 +23,12 @@
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
 </div>
 
-<p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
+#
+<div>
+  <p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
 estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
+</div>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
