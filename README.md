@@ -11,8 +11,9 @@
 <img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
 </div>
-<h3>My Networks</h3>
+
 <div align="center">
+  <h3>My Networks</h3>
   <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
