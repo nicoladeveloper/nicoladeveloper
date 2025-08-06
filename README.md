@@ -11,6 +11,12 @@
 <img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
 </div>
+
+<div align="center">
+  <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 #
 
 <p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
@@ -21,13 +27,7 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
 
 
 
-<div align="center">
-  <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
