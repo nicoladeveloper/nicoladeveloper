@@ -8,7 +8,7 @@ estudos e cursos com foco em FullStack.</h3>
 </div>
 ### 
 <div align = "center">
-<img align="center" height="100" src ="<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />"/>
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 
 
 
