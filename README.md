@@ -14,12 +14,7 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
   <h3> My Stack</h3>
 <img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
 <img alt="DJANGO"src="https://img.shields.io/badge/Django-%234B275F.svg?style=for-the-badge&logo=django&logoColor=purple"/>
-
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000"/>
-<img align="center" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+<img alt="C#"src="https://img.shields.io/badge/C#-%234B275F.svg?style=for-the-badge&logo=C#&logoColor=purple"/>
 
 </div>
 
