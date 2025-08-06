@@ -3,13 +3,6 @@
 <div>
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 
-#
-
-<p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
-estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
-
-#
-  
 <div align = "center">
   <h3> My Stack</h3>
 <img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
@@ -17,8 +10,15 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
 <img alt="C#"src="https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=purple"/>
 <img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
-
 </div>
+#
+
+<p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
+estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
+
+#
+  
+
 
 
 <div align="center">
