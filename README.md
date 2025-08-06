@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nicolas</h2>
-
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 <h3 align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
 estudos e cursos com foco em FullStack.</h3>
 
@@ -8,7 +8,7 @@ estudos e cursos com foco em FullStack.</h3>
 </div>
 ### 
 <div align = "center">
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
+
 
 
 
