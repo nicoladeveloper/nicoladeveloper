@@ -1,6 +1,6 @@
 ## 
 <div align="center">
-<div align = "center"
+<div align = "left"
   <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
