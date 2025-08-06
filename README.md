@@ -2,7 +2,7 @@
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1053422d-d281-45e3-84d9-16e047e360a2" />
 <p align = "center"> Cursando python automação e desenvolvimento web com django, e graduando Ciências da computação na UNIFACS,
-estudos e cursos com foco em FullStack.</p>
+estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
 
 <div align = "center">
 </h3> Projeto em andamento: estou desenvolvendo um projeto com python e django...</h3>
