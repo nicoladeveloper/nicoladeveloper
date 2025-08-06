@@ -11,7 +11,7 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
 #
   
 <div align = "center">
-  <h3> Minhas tecnologias </h3>
+  <h3> My Stack</h3>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000"/>
 <img align="center" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
