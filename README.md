@@ -30,7 +30,7 @@
 #
 <div>
   <p align = "center"> Sou Nicolas, tenho 21 Anos,  graduando Ciências da computação na UNIFACS, Cursando python automação e desenvolvimento web com django na Udemy,
-  e atualmente estou fazendo o Bootcamp da Dio pela WebX, onde estou desenvolvendo com C#  .Net, git e sql server</p>
+  e atualmente estou fazendo o Bootcamp da Dio pela WebX, onde estou desenvolvendo com C#, .Net, git e sql server</p>
 </div>
 
 #
