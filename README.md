@@ -34,10 +34,15 @@ estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvend
 </div>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
-<img align="center" height="300" src="https://github.com/user-attachments/assets/cd14cf74-77aa-4b90-a8a5-48b2dda7ebe3"/>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  
+  <img height="300" src="https://github.com/user-attachments/assets/cd14cf74-77aa-4b90-a8a5-48b2dda7ebe3"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoladeveloper&hide_progress=true"/>
+  
+  
 </div>
+
 
 <div>
 <picture align="center">
