@@ -14,7 +14,7 @@
 </div>
 
 ##
-<div>
+
 <div align = "left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
 </div>
@@ -25,7 +25,7 @@
 <img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
 </div>
-</div>
+
 
 #
 <div>
@@ -33,7 +33,7 @@
 estudos e cursos com foco em FullStack. Projeto em andamento: estou desenvolvendo um projeto com python e django...</p>
 </div>
 
-
+#
 <div>
 <img align = "left"src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img align= "center" height="300" src="https://github.com/user-attachments/assets/cd14cf74-77aa-4b90-a8a5-48b2dda7ebe3"/>
