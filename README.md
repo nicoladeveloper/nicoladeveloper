@@ -35,7 +35,7 @@
 
 #
 
- <h3>Projeto | Contribuições</h3>
+ <h3>Projetos | Contribuições</h3>
 <table>
   <tr>
    <p">! Clique no Projeto para ser direcionado</p>
