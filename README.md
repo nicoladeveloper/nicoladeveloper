@@ -37,7 +37,7 @@
 #
 
 <div align="left">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=15&duration=3000&pause=1000&color=53FF84&width=435&lines=Projetos+e+Comtribui%C3%A7%C3%B5es" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=17&duration=3000&pause=1000&color=53FF84&width=435&lines=Projetos+e+Comtribui%C3%A7%C3%B5es" alt="Typing SVG" /></a>
 </div>
 <table>
   <tr>
