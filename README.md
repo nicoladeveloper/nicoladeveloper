@@ -39,6 +39,24 @@
   <img align= "center" height="300" src="https://github.com/user-attachments/assets/cd14cf74-77aa-4b90-a8a5-48b2dda7ebe3"/>
 </div>
 
+<table>
+  <tr>
+   <p">! Clique no Projeto para ser direcionado</p>
+    <td align="center">
+      Allgames<br>
+      <a href="https://github.com/nicoladeveloper/AllGames/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e" width="300" alt="Allgames" />
+      </a>
+    </td>
+    <td align="center">
+      DataShow<br>
+      <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="300" alt="DataShow" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <div>
 <picture align="center">
