@@ -56,7 +56,7 @@
       </a>
     </td>
     <td align="center">
-      dio-lab-open-source<br>Como animar texto no README
+      dio-lab-open-source<br>
       <br>
       <a href="https://github.com/nicoladeveloper/dio-lab-open-source/blob/feat/community/nicoladeveloper/community/nicoladeveloper.md">
       <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
