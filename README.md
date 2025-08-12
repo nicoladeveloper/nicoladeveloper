@@ -49,12 +49,11 @@
         <img src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e" width="250" alt="Allgames" />
       </a>
     </td>
-    <td align="center">
-      DataShow<br>
-      <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="250" alt="DataShow" />
-      </a>
-    </td>
+  <td align="center">
+   Open-source-AppIdeas-Python<br>
+    <a href="https://lnkd.in/eWfDQ9Gq">
+    <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
+      </td>
     <td align="center">
       dio-lab-open-source<br>
       <br>
@@ -67,20 +66,21 @@
 
 <table>
 <tr>
-<td align="center">
-  Open-source-AppIdeas-Python<br>
-    <a href="https://lnkd.in/eWfDQ9Gq">
-    <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
-</td>
-
-<td>
+   <td>
   Projeto-ViaCep<br>
     <a href="https://github.com/nicoladeveloper/ViaCepProjeto/blob/main/README.md">
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/28ec2ad6-077f-4119-9b18-758411ad1433" />
-</td>
-      
+    </td>
+<td align="center">
+      DataShow<br>
+      <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="250" alt="DataShow" />
+      </a>
+  </td> 
 </tr>
 </table>
+
+
 
 #
 
