@@ -61,6 +61,12 @@
       <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
       </a>
     </td>
+      </td>
+      <td align = "center">
+      Sistema-Hospedagem|C#.NET<br>
+        <a href="">
+          <img width="300" height="220" alt="Image" src="https://github.com/user-attachments/assets/4d636bbf-d35f-4f2e-89d8-0fe6e2aa786a" />
+      </td>
   </tr>
 </table>
 
@@ -83,7 +89,7 @@
       <a href="https://github.com/nicoladeveloper/trilha-net-fundamentos-desafio">
       <img width="250" height="300" alt="Image" src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" />
       </a>
-    </td>
+  
 </tr>
 </table>
 
