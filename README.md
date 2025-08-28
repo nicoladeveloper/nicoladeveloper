@@ -55,7 +55,7 @@
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
       </td>
     <td align="center">
-    🫂dio-lab-open-source🎖️Html<br>
+    🫂Dio-Text-Atimation🎖️Html<br>
       <br>
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
       <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
@@ -91,7 +91,7 @@
       </a>
       </td>
       <td>
-        🫂Sistema-Celulares🎖️C#.NET<br>
+        🫂SistemaCelulares🎖️C#.NET<br>
         <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
         <img width="250" alt="Image" src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" /></a>
         </td>
