@@ -90,7 +90,7 @@
       <img width="250" alt="Image" src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" />
       </a>
       </td>
-      <td>
+      <td align ="center">
         🫂SistemaCelulares🎖️C#.NET<br>
         <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
         <img width="250" alt="Image" src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" /></a>
@@ -98,7 +98,6 @@
   
 </tr>
 </table>
-
 
 
 #
