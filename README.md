@@ -50,12 +50,12 @@
       </a>
     </td>
   <td align="center">
-   Open-source-AppIdeas-Python<br>
+   🫂AppIdeas🎖️Python<br>
     <a href="https://github.com/nicoladeveloper/app-ideas/blob/master/Projects/1-Beginner/Password-generator-App.md">
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
       </td>
     <td align="center">
-      dio-lab-open-source<br>
+      🫂dio-lab-open-source🎖️html<br>
       <br>
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
       <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
@@ -63,7 +63,7 @@
     </td>
       </td>
       <td align = "center">
-      Sistema-Hospedagem-C#.NET<br>
+      🫂Hospedagem🎖️C#.NET<br>
         <a href="https://github.com/nicoladeveloper/Sistema-de-Hopedagem">
           <img width="250"alt="Image" src="https://github.com/user-attachments/assets/eafc5778-ce6c-4782-b797-3d4f4da4fbd6" /></a>
       </td>
@@ -84,11 +84,17 @@
       </a>
   </td> 
       <td align="center">
-      Open-source-Estacionamento-C#.NET<br>
+     🫂Estacionamento-🎖️C#.NET<br>
       <br>
       <a href="https://github.com/nicoladeveloper/trilha-net-fundamentos-desafio">
-      <img width="250" height="300" alt="Image" src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" />
+      <img width="250" alt="Image" src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" />
       </a>
+      </td>
+      <td>
+        🫂Sistema-Celulares🎖️C#.NET<br>
+        <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
+        <img width="250" alt="Image" src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" /></a>
+        </td>
   
 </tr>
 </table>
