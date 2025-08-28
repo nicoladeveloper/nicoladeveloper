@@ -46,7 +46,7 @@
     <td align="center">
       🗃️Allgames🎖️Html-Css-Js<br>
       <a href="https://github.com/nicoladeveloper/AllGames/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e" width="250" alt="Allgames" />
+        <img  width="250" alt="Image" src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e"/>
       </a>
     </td>
   <td align="center">
@@ -55,10 +55,10 @@
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
       </td>
     <td align="center">
-    🫂Dio-Text-Atimation🎖️Html<br>
+    🫂Dio-Atimation🎖️Html<br>
       <br>
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
-      <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
+      <img width="250" alt="Image" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
       </a>
     </td>
       </td>
@@ -80,12 +80,11 @@
 <td align="center">
       🗃️DataShow🎖️Python<br>
       <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="250" alt="DataShow" />
+        <img width="250" alt="Image" src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21"  />
       </a>
   </td> 
       <td align="center">
      🫂Estacionamento-🎖️C#.NET<br>
-      <br>
       <a href="https://github.com/nicoladeveloper/trilha-net-fundamentos-desafio">
       <img width="250" alt="Image" src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" />
       </a>
@@ -95,7 +94,6 @@
         <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
         <img width="250" alt="Image" src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" /></a>
         </td>
-  
 </tr>
 </table>
 
