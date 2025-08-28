@@ -44,18 +44,18 @@
   <tr>
    <p">! Clique no Projeto para ser direcionado</p>
     <td align="center">
-      Allgames<br>
+      🗃️Allgames🎖️Html-Css-Js<br>
       <a href="https://github.com/nicoladeveloper/AllGames/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e" width="250" alt="Allgames" />
       </a>
     </td>
   <td align="center">
-   🫂AppIdeas🎖️Python<br>
+   🫂AppIdeas🎖️python<br>
     <a href="https://github.com/nicoladeveloper/app-ideas/blob/master/Projects/1-Beginner/Password-generator-App.md">
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
       </td>
     <td align="center">
-      🫂dio-lab-open-source🎖️html<br>
+    🫂dio-lab-open-source🎖️Html<br>
       <br>
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
       <img width="250" alt="dio-lab-open-source" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
@@ -72,13 +72,13 @@
 
 <table>
 <tr>
-   <td>
-  Projeto-ViaCep<br>
+   <td align = "center">
+  🗃️Projeto-ViaCep🎖️Js<br>
     <a href="https://github.com/nicoladeveloper/ViaCepProjeto/blob/main/README.md">
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/28ec2ad6-077f-4119-9b18-758411ad1433" />
     </td>
 <td align="center">
-      DataShow<br>
+      🗃️DataShow🎖️Python<br>
       <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="250" alt="DataShow" />
       </a>
