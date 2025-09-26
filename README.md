@@ -30,7 +30,7 @@
 
 #
 <div>
-  <p style="text-align: left;"> Sou Nicolas, tenho 21 Anos,  graduando Ciências da computação na UNIFACS. 4° periodo, tenho esperiência com C# .NET, GIT, GITHUB E SQL que adiquir no curso da WEX pela DIO, conhecimentos em python com automação e Api, tmb tenho conhescimentos e esperiência com frontend: "DIO-RI HAPPY" um curso de frontend onde aprendi html, css e js do básico ao intermediário onde desenvolvi muitos projetos front, atualmente estou fazendo curso pela Acad que contém React, docker e  lógica melhorada! abaixo estar alguns dos projetos que participei e estou em constante atualização</p>
+  <p style="text-align: left;"> Sou Nicolas, tenho 21 Anos,  graduando Ciências da computação na UNIFACS. 4° periodo, tenho esperiência com C# .NET, GIT, GITHUB E SQL que adiquir no curso da WEX pela DIO, conhecimentos em python com automação e Api, também tenho conhecimentos e esperiência com frontend: "DIO-RI HAPPY" um curso de frontend onde aprendi html, css e js do básico ao intermediário onde desenvolvi muitos projetos front, atualmente estou fazendo curso pela Acad que contém React, docker e  lógica melhorada! abaixo estar alguns dos projetos que participei e estou em constante atualização</p>
 </div>
 
 #
