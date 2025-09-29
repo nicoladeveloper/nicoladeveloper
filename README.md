@@ -53,7 +53,7 @@
     <img width="250"  alt="Image" src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f"></a>
       </td>
     <td align="center">
-    🫂Dio-Atimation🎖️Html<br>
+    🫂Dio-Animation🎖️Html<br>
       <br>
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
       <img width="250" alt="Image" src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" />
