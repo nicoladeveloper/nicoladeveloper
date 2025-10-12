@@ -20,10 +20,10 @@
 </div>
 <div align ="left">
 <img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
-<img alt="DJANGO"src="https://img.shields.io/badge/Django-%234B275F.svg?style=for-the-badge&logo=django&logoColor=purple"/>
 <img alt="C#"src="https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=purple"/>
 <img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
 <img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
+<img alt="JS"src="https://img.shields.io/badge/JS-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/> 
 <img alt="SQL"src="https://img.shields.io/badge/Sql-%234B275F.svg?style=for-the-badge&logo=sql&logoColor=purple"/>
 </div>
 
