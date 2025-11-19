@@ -5,13 +5,13 @@
 </div>
 
 ##
-<div align="center">
+<div align="left">
 
 ## 🛠️ Stack Tecnológica
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ### Backend
 
