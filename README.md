@@ -5,34 +5,57 @@
 </div>
 
 ##
-<div align = "left">
-  <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="ffnicolaf13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+
+## 🛠️ Stack Tecnológica
+
 </div>
 
-##
+<div align="center">
 
-<div align = "left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E29F7&width=435&lines=My+technologies" alt="Typing SVG" /></a>
-</div>
-<div align ="left">
-<img alt="PYTHON"src="https://img.shields.io/badge/Python-%234B275F.svg?style=for-the-badge&logo=python&logoColor=purple"/>
-<img alt="C#"src="https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=purple"/>
-<img alt="HTML"src="https://img.shields.io/badge/Html-%234B275F.svg?style=for-the-badge&logo=html&logoColor=purple"/>
-<img alt="CSS"src="https://img.shields.io/badge/Css-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/>
-<img alt="JS"src="https://img.shields.io/badge/JS-%234B275F.svg?style=for-the-badge&logo=css&logoColor=purple"/> 
-<img alt="SQL"src="https://img.shields.io/badge/Sql-%234B275F.svg?style=for-the-badge&logo=sql&logoColor=purple"/>
-</div>
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-ba)
+
 
 
 #
-<div>
-  <p style="text-align: left;"> Sou Nicolas, tenho 21 Anos,  graduando Ciências da computação na UNIFACS 4° periodo, tenho esperiência com C# .NET, GIT, GITHUB E SQL que adiquir no curso AKAD FULL STACK DEVELOPER pela DIO, conhecimentos em python com automação e Api pela UDEMY. Conhecimentos e esperiência com frontend: "DIO-RI HAPPY" um curso de frontend onde aprendi html, css e js do básico ao intermediário, onde desenvolvi muitos projetos front. Atualmente estou fazendo curso na "Acad Full Stack Developer" que contém React, docker e lógica melhorada! 
-abaixo estar alguns dos projetos que participei e estou em constante atualização</p>
+
+<div align="center">
+
+## 🚀 Sobre Mim
+
 </div>
 
-#
+<div align="center">
+
+Desenvolvedor Full Stack com 21 anos, atualmente cursando Ciências da Computação na UNIFACS (4º período).  
+Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
+
+</div>
+
+<div align="center">
+
+|      🎓 Certificação       |   🐍 Especialização   |   💻 Experiência   |        🔄 Estudando         |
+| :------------------------: | :-------------------: | :----------------: | :-------------------------: |
+| Full Stack Developer (DIO) | Python & APIs (Udemy) | Frontend & Backend | React, Docker & Arquitetura |
+
+</div>
+
 
 <div align="center">
 
