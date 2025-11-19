@@ -1,45 +1,11 @@
 
 <div align = "center">
+<div align = "center">
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1fe1c291-037d-47b6-8969-a5ccd2cf49d8" />
 </div>
 
-##
-<div align="left">
-
-## 🛠️ Stack Tecnológica
-
-</div>
-
-<div align="left">
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-ba)
-
-
-
-#
-
-<div align="center">
-
-## 🚀 Sobre Mim
-
-</div>
+###
 
 <div align="center">
 
@@ -47,6 +13,8 @@ Desenvolvedor Full Stack com 21 anos, atualmente cursando Ciências da Computaç
 Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 </div>
+
+---
 
 <div align="center">
 
@@ -56,9 +24,10 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 </div>
 
+---
+## Projetos em Destaque
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="25%">
@@ -147,7 +116,7 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -160,15 +129,11 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
       
 #
 
-
-<div>
-<img align = "left"src="https://github-readme-stats.vercel.app/api?username=nicoladeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img align= "center" height="200" src="https://github.com/user-attachments/assets/cd14cf74-77aa-4b90-a8a5-48b2dda7ebe3"/>
-</div>
-
 <div>
 <picture align="center">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake-dark.svg">
 <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/github-contribution-grid-snake.svg">
+</div>
+
 </div>
