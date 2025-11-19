@@ -62,7 +62,7 @@ abaixo estar alguns dos projetos que participei e estou em constante atualizaç�
         <br />
         <b>📊 DataShow</b>
         <br />
-        <sub>Python • Data Visualization</sub>
+        <sub>Python • Data IA Openai</sub>
       </a>
     </td>
     <td align="center" width="25%">
