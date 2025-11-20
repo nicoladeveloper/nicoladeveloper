@@ -18,9 +18,9 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 <div align="center">
 
-|      🎓 Certificação       |   🐍 Especialização   |   💻 Experiência   |        🔄 Estudando         |
+|      🎓 Certificação       |   🐍 Especialização   |   💻 Experiência   |        🔄 ferramentas - Framework     |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------: |
-| Full Stack Developer (DIO) | Python & APIs (Udemy) | Frontend & Backend | React, Docker & Arquitetura |
+| Full Stack Developer (DIO) | Python & APIs (Udemy) | Frontend & Backend | React, Docker & Arquitetura, Git |
 
 </div>
 
