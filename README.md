@@ -82,7 +82,7 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
   </tr>
 </table>
 
-### 🏗️ Projetos Backend
+###  Projetos Backend
 
 <table>
   <tr>
