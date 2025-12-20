@@ -31,10 +31,10 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 <div align="center">
 
-|      🎓 Certificação       |   🐍 Especialização   |   💻 Experiência   |        🔄 ferramentas - Framework     |
+|       Certificação       |    Especialização   |    Experiência   |         ferramentas - Framework     |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------: |
-| Backend, SQL , Git, Cursos(DIO) | Python & APIs (Udemy) | Backend & Frontend| React, Arquitetura, Git |
-                                                      
+| Backend, SQL , Git, Cursos(DIO) | Python & APIs (Udemy) | Soluções Backend| React, Arquitetura, Git |
+| Lógica de Programação, Poo      | FastAPI, API Rest      | Conhecimentos Frontend | Mysql, SQLserver |            
 </div>
 
 ---
