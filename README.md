@@ -2,7 +2,7 @@
 <div align = "center">
 <div align = "center">
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/1fe1c291-037d-47b6-8969-a5ccd2cf49d8" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/c20c27a5-af06-4d72-9bf5-90f1039177bd" />
 
 ##
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Desenvolvedor Full Stack com 21 anos, atualmente cursando Ciências da Computação na UNIFACS (4º período).  
+Backend Developer Jr. com conhecimentos em frontend com JavaScript e React, atualmente cursando Ciências da Computação na UNIFACS (4º período).
 Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 </div>
@@ -33,8 +33,8 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 |      🎓 Certificação       |   🐍 Especialização   |   💻 Experiência   |        🔄 ferramentas - Framework     |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------: |
-| Full Stack Developer (DIO) | Python & APIs (Udemy) | Frontend & Backend | React, Docker & Arquitetura, Git |
-
+| Backend, SQL , Git, Cursos(DIO) | Python & APIs (Udemy) | Backend & Frontend| React, Arquitetura, Git |
+                                                      
 </div>
 
 ---
