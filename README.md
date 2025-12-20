@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Backend Developer Jr. com conhecimentos em frontend com JavaScript e React, atualmente cursando Ciências da Computação na UNIFACS (4º período).
+Backend Developer Jr. Python & FastAPI com conhecimentos em frontend com JavaScript e React, atualmente cursando Ciências da Computação na UNIFACS (4º período).
 Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 </div>
