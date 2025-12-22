@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Backend Developer Jr. Python & FastAPI com conhecimentos em frontend com JavaScript e React, atualmente cursando Ciências da Computação na UNIFACS (4º período).
+Backend Developer Jr. Python & FastAPI com conhecimentos em frontend com JavaScript e React, atualmente cursando Ciências da Computação(4º período).
 Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 </div>
@@ -33,7 +33,7 @@ Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 |       Certificação       |    Especialização   |    Experiência   |         ferramentas - Framework     |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------: |
-| Backend, SQL , Git, Cursos(DIO) | Python & APIs (Udemy) | Soluções Backend| React, Arquitetura, Git |
+| Backend, SQL , Git, Cursos(DIO) | Python & APIs (Fundação Bradesco) | Soluções Backend| React, Arquitetura, Git |
 | Lógica de Programação, Poo      | FastAPI, API Rest      | Conhecimentos Frontend | Mysql, SQLserver |            
 </div>
 
