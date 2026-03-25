@@ -2,7 +2,7 @@
 <div align = "center">
 <div align = "center">
 
-![Image](https://github.com/user-attachments/assets/5038912b-a096-48c6-80fd-8d0ebd202769)
+![GIF](https://github.com/user-attachments/assets/5038912b-a096-48c6-80fd-8d0ebd202769)
 
 ##
 
