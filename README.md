@@ -40,9 +40,9 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/app-ideas/blob/master/Projects/1-Beginner/Password-generator-App.md">
-        <img src="https://github.com/user-attachments/assets/a7b47a69-0693-452d-a465-1c58ea0dc05f" width="200px" alt="AppIdeas"/>
+        <img src="https://github.com/user-attachments/assets/c74f019c-1ecf-461c-b5a4-1f2df711571c"/>
         <br />
-        <b>🔐 Password Generator</b>
+        <b>Prevenção de Desastre Naturais</b>
         <br />
         <sub>Python</sub>
       </a>
