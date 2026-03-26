@@ -39,10 +39,10 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/app-ideas/blob/master/Projects/1-Beginner/Password-generator-App.md">
+      <a href="https://github.com/nicoladeveloper/Natural-Disaster-Watch">
         <img src="https://github.com/user-attachments/assets/c74f019c-1ecf-461c-b5a4-1f2df711571c"/>
         <br />
-        <b>Prevenção de Desastre Naturais</b>
+        <b>🌎Natural Disaster Watch</b>
         <br />
         <sub>Python</sub>
       </a>
