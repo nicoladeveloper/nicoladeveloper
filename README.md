@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/AllGames/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/86528196-52c9-4a03-a3d4-41947a91788e" width="200px" alt="AllGames"/>
+      <a href="https://github.com/nicoladeveloper/Kimetsu-Memory">
+        <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b" width="200px" alt="AllGames"/>
         <br />
-        <b>🎮 AllGames</b>
+        <b>🎮 Kimetsu Memory</b>
         <br />
         <sub>HTML • CSS • JavaScript</sub>
       </a>
@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/ViaCepProjeto/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/28ec2ad6-077f-4119-9b18-758411ad1433" width="200px" alt="ViaCep"/>
+        <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b"/>
         <br />
         <b>📍 ViaCep API</b>
         <br />
