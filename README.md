@@ -44,25 +44,25 @@
         <br />
         <b>Natural Disaster Watch</b>
         <br />
-        <sub>Python</sub>
+        <sub>FASTAPI • JAVASCRIPT • HTML • CSS</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="200px" alt="DataShow"/>
         <br />
-        <b>📊 DataShow</b>
+        <b>DataShow</b>
         <br />
-        <sub>Python • Data IA Openai</sub>
+        <sub>PYTHON • DATA IA OPENAI</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/ViaCepProjeto/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b"/>
         <br />
-        <b>📍 ViaCep API</b>
+        <b>Kimetsu Memory</b>
         <br />
-        <sub>JavaScript • API Integration</sub>
+        <sub>JAVASCRIPT • HTML • CSS</sub>
       </a>
     </td>
   </tr>
