@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-###  Projetos Backend
+###  Outros Projetos
 
 <table>
   <tr>
