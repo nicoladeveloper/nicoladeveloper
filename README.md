@@ -30,19 +30,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/Kimetsu-Memory">
-        <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b" width="200px" alt="AllGames"/>
+      <a href="https://github.com/nicoladeveloper/desafio-backend-RBAC-MLD">
+        <img src="https://github.com/user-attachments/assets/c73ba1b0-ba12-4b07-b44e-8e937b5084bb" alt="AllGames"/>
         <br />
-        <b>🎮 Kimetsu Memory</b>
+        <b>desafio-backend-RBAC-MLD</b>
         <br />
-        <sub>HTML • CSS • JavaScript</sub>
+        <sub>NODE • NEST JS • PRISMA</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/Natural-Disaster-Watch">
         <img src="https://github.com/user-attachments/assets/c74f019c-1ecf-461c-b5a4-1f2df711571c"/>
         <br />
-        <b>🌎Natural Disaster Watch</b>
+        <b>Natural Disaster Watch</b>
         <br />
         <sub>Python</sub>
       </a>
