@@ -73,6 +73,46 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/AllGames">
+        <img src="https://github.com/user-attachments/assets/3469c192-152b-4067-a492-4b77b0e2ac48" width="200px" alt="Hospedagem"/>
+        <br />
+        <b>AllGames - Full Stack Emulator Platform</b>
+        <br />
+        <sub>HTML • CSS • JAVASCRIPT</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/Semantica-Html">
+        <img src="https://github.com/user-attachments/assets/c79fd8c9-2162-4968-9a18-d53ccb3a1da9"/>
+        <br />
+        <b>Semantica-Html</b>
+        <br />
+        <sub>HTML • CSS</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
+        <img src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" width="200px" alt="Celulares"/>
+        <br />
+        <b>📱 Sistema de Celulares</b>
+        <br />
+        <sub>C# • OOP</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
+        <img src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" width="200px" alt="DIO"/>
+        <br />
+        <b>🎨 DIO Animation</b>
+        <br />
+        <sub>HTML • CSS</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="25%">
       <a href="https://github.com/nicoladeveloper/Sistema-de-Hopedagem">
         <img src="https://github.com/user-attachments/assets/eafc5778-ce6c-4782-b797-3d4f4da4fbd6" width="200px" alt="Hospedagem"/>
         <br />
@@ -110,6 +150,7 @@
     </td>
   </tr>
 </table>
+
 
 </div>
 
