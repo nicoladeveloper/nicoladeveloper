@@ -116,7 +116,7 @@
       <a href="https://github.com/nicoladeveloper/Sistema-de-Hopedagem">
         <img src="https://github.com/user-attachments/assets/eafc5778-ce6c-4782-b797-3d4f4da4fbd6" width="200px" alt="Hospedagem"/>
         <br />
-        <b>🏨 Sistema de Hospedagem</b>
+        <b>Sistema de Hospedagem</b>
         <br />
         <sub>C# • .NET</sub>
       </a>
@@ -125,7 +125,7 @@
       <a href="https://github.com/nicoladeveloper/trilha-net-fundamentos-desafio">
         <img src="https://github.com/user-attachments/assets/10cd3b95-faa8-4f2e-9f75-d4b7da42253f" width="200px" alt="Estacionamento"/>
         <br />
-        <b>🚗 Sistema de Estacionamento</b>
+        <b>Sistema de Estacionamento</b>
         <br />
         <sub>C# • .NET</sub>
       </a>
@@ -143,7 +143,7 @@
       <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
         <img src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" width="200px" alt="DIO"/>
         <br />
-        <b>🎨 DIO Animation</b>
+        <b>DIO Animation</b>
         <br />
         <sub>HTML • CSS</sub>
       </a>
