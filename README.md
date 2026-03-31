@@ -91,12 +91,12 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/Sistema-Celulares-Poo">
-        <img src="https://github.com/user-attachments/assets/9dddda37-eb28-49a9-b081-4d76d8ab7894" width="200px" alt="Celulares"/>
+      <a href="https://github.com/nicoladeveloper/Cardapio">
+        <img src="https://github.com/user-attachments/assets/714ea589-ffff-4a67-8213-a8ba95757b58"/>
         <br />
-        <b>📱 Sistema de Celulares</b>
+        <b>Cardápio</b>
         <br />
-        <sub>C# • OOP</sub>
+        <sub>HTML • CSS</sub>
       </a>
     </td>
     <td align="center" width="25%">
