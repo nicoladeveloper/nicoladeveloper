@@ -100,12 +100,12 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/nicoladeveloper.md">
-        <img src="https://github.com/user-attachments/assets/89a67c93-16c4-4868-92c7-a7ce87d7f164" width="200px" alt="DIO"/>
+      <a href="https://github.com/nicoladeveloper/ViaCepProjeto">
+        <img src="https://github.com/user-attachments/assets/a61727a1-40d2-48a6-89b4-807fd8f1b6a6"/>
         <br />
-        <b>🎨 DIO Animation</b>
+        <b>WEB VIACEP API</b>
         <br />
-        <sub>HTML • CSS</sub>
+        <sub>HTML • CSS • JAVASCRIPT</sub>
       </a>
     </td>
   </tr>
