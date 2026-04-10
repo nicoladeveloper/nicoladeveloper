@@ -21,9 +21,6 @@
 ###
 
 
----
-
----
 ## Projetos em Destaque
 
 <div align="center">
