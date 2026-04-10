@@ -159,6 +159,12 @@
       
 #
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicoladeveloper/nicoladeveloper/output/pacman-contribution-graph.svg">
+</picture>
+
 | ![Lara Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicoladeveloper&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicoladeveloper&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicoladeveloper&theme=midnight_purple) |
 | :-: | :-: | :-: |
 
