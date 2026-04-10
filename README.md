@@ -152,10 +152,6 @@
 </div>
 
 ---
-
-## Estatísticas GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicoladeveloper&theme=tokyonight)
       
 #
 
