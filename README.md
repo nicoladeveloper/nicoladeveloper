@@ -2,10 +2,6 @@
 <div align = "center">
 <div align = "center">
 <div align="left">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-00C853?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasdeveper/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/)
-[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffnicolaf13@gmail.com)
 
  </div>
  
