@@ -1,11 +1,6 @@
 
 <div align = "center">
 <div align = "center">
-
-![Image](https://github.com/user-attachments/assets/3e560447-1acd-4cb3-8f70-c51df6e79440)
-
-##
-
 <div align="left">
   
 [![Instagram](https://img.shields.io/badge/Instagram-00C853?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasdeveper/)
