@@ -21,6 +21,14 @@
       <a href="https://github.com/nicoladeveloper/desafio-backend-RBAC-MLD">
         <img src="https://github.com/user-attachments/assets/c73ba1b0-ba12-4b07-b44e-8e937b5084bb" alt="AllGames"/>
         <br />
+        <b>Controle de Gastos Residenciais</b>
+        <br />
+        <sub>.NET • ASPNET • REACT • SQLITE • xUnit</sub>
+      </a>
+      <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/desafio-backend-RBAC-MLD">
+        <img src="https://github.com/user-attachments/assets/c73ba1b0-ba12-4b07-b44e-8e937b5084bb" alt="AllGames"/>
+        <br />
         <b>desafio-backend-RBAC-MLD</b>
         <br />
         <sub>NODE • NEST JS • PRISMA</sub>
@@ -35,24 +43,8 @@
         <sub>FASTAPI • JAVASCRIPT • HTML • CSS</sub>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="200px" alt="DataShow"/>
-        <br />
-        <b>DataShow</b>
-        <br />
-        <sub>PYTHON • DATA IA OPENAI</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/Kimetsu-Memory">
-        <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b"/>
-        <br />
-        <b>Kimetsu Memory</b>
-        <br />
-        <sub>JAVASCRIPT • HTML • CSS</sub>
-      </a>
-    </td>
+   
+
   </tr>
 </table>
 
@@ -69,22 +61,22 @@
         <sub>HTML • CSS • JAVASCRIPT</sub>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/Semantica-Html">
-        <img src="https://github.com/user-attachments/assets/c79fd8c9-2162-4968-9a18-d53ccb3a1da9"/>
+       <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/Kimetsu-Memory">
+        <img src="https://github.com/user-attachments/assets/6e2d1878-0195-4c76-87fe-7968057a599b"/>
         <br />
-        <b>Semantica-Html</b>
+        <b>Kimetsu Memory</b>
         <br />
-        <sub>HTML • CSS</sub>
+        <sub>JAVASCRIPT • HTML • CSS</sub>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/Cardapio">
-        <img src="https://github.com/user-attachments/assets/714ea589-ffff-4a67-8213-a8ba95757b58"/>
+     <td align="center" width="25%">
+      <a href="https://github.com/nicoladeveloper/DataShow/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/963069d1-c1ff-412c-a9e7-8d5af332ac21" width="200px" alt="DataShow"/>
         <br />
-        <b>Cardápio</b>
+        <b>DataShow</b>
         <br />
-        <sub>HTML • CSS</sub>
+        <sub>PYTHON • DATA IA OPENAI</sub>
       </a>
     </td>
     <td align="center" width="25%">
