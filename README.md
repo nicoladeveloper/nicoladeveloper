@@ -17,9 +17,9 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/nicoladeveloper/desafio-backend-RBAC-MLD">
-        <img src="https://github.com/user-attachments/assets/c73ba1b0-ba12-4b07-b44e-8e937b5084bb" alt="AllGames"/>
+    <td align="center" width="24%">
+      <a href="https://github.com/nicoladeveloper/GastosResiduaisAdvanced.git">
+        <img src="https://github.com/user-attachments/assets/6700dd39-b1fa-49cf-8257-6597143c5a8d" alt="AllGames"/>
         <br />
         <b>Controle de Gastos Residenciais</b>
         <br />
